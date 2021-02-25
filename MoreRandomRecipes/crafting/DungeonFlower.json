@@ -1,0 +1,8 @@
+{
+    "id" : "dungeonflower",
+    "craftedFrom" : "pinkpetals : 5",
+    "craftingMachine" : "workbench_dungeon",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}
